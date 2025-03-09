@@ -34,6 +34,6 @@ docker compose up
 ![Chatbot Demo](https://github.com/lyle0409/e-commerce_chatbot/blob/main/demo.png)
 
 ### 🎬 Watch the Full Demo Video
-![Watch the demo](https://drive.google.com/file/d/1YCpt4tRPayGBg3g6Hzv83_1tmVdXroiU/view?usp=sharing)
+[![Watch the demo](https://github.com/lyle0409/e-commerce_chatbot/blob/main/demo.png)](https://drive.google.com/file/d/1YCpt4tRPayGBg3g6Hzv83_1tmVdXroiU/view?usp=sharing)
 
 Now your `README.md` will be updated directly on GitHub! 🚀
