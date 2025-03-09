@@ -1,0 +1,25 @@
+version: '3'
+
+services:
+  open-webui:
+    image: ghcr.io/open-webui/open-webui:main
+    container_name: open-webui
+    environment:
+      - OPENAI_API_KEY=key
+    volumes:
+      - ./backend/data:/app/backend/data
+    ports:
+      - "3000:8080"
+    restart: always
+
+  fastapi:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: fastapi
+    environment:
+      - OPENAI_API_KEY=key
+    ports:
+      - "8000:8000"
+    restart: always
+

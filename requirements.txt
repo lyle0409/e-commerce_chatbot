@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+numpy
+openai
+rapidfuzz
+serpapi
+python-dotenv
+beautifulsoup4
+google-serp-api
+google-search-results
