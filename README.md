@@ -1,7 +1,7 @@
 # 📌 Agentic E-commerce Chatbot
 
 ## 📜 Introduction
-This project develops a complete NLP pipeline, from data crawling using BeautifulSoup4 and LLM tools to preprocessing via rule-based methods and GPT normalization.** The pipeline includes training and evaluating various models, such as SVM, LSTM, and Transformer, followed by deployment.
+This project develops a complete NLP pipeline, from data crawling using BeautifulSoup4 and LLM tools to preprocessing via rule-based methods and GPT normalization.
 
 Additionally, an agentic chatbot powered by GPT-4o-mini is built, utilizing function-calling capabilities and tailored tools to enhance functionality and address specific use cases. The chatbot supports prompt engineering for product-specific needs, including time queries, persona-based interactions, and specialized problem-solving.
 
