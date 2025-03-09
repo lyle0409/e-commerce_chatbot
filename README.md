@@ -1,11 +1,11 @@
 # 📌 Agentic E-commerce Chatbot
 
-## Introduction
+## 📜 Introduction
 This project develops a complete NLP pipeline, from data crawling using BeautifulSoup4 and LLM tools to preprocessing via rule-based methods and GPT normalization.** The pipeline includes training and evaluating various models, such as SVM, LSTM, and Transformer, followed by deployment.
 
 Additionally, an agentic chatbot powered by GPT-4o-mini is built, utilizing function-calling capabilities and tailored tools to enhance functionality and address specific use cases. The chatbot supports prompt engineering for product-specific needs, including time queries, persona-based interactions, and specialized problem-solving.
 
-## Feartures
+## 🎯 Feartures
 - **🕵️‍♂️ Data Crawling**: Extracts web data using `BeautifulSoup4` and LLM-assisted parsing.
 - **🛠 Preprocessing**:
   - Rule-based text cleaning.
@@ -28,5 +28,12 @@ Additionally, an agentic chatbot powered by GPT-4o-mini is built, utilizing func
 docker compose build
 docker compose up
   ```
+## Demo 🎥
+
+### 📸 Screenshot Preview
+![Chatbot Demo](https://github.com/lyle0409/e-commerce_chatbot/blob/main/demo.png)
+
+### 🎬 Watch the Full Demo Video
+[![Watch the demo](https://drive.google.com/file/d/1YCpt4tRPayGBg3g6Hzv83_1tmVdXroiU/view?usp=sharing)
 
 Now your `README.md` will be updated directly on GitHub! 🚀
